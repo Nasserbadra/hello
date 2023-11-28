@@ -1,7 +1,7 @@
 import pandas as pd # read csv, df manipulation
 import plotly.express as px # interactive charts
 import streamlit as st # data web application development
-from streamlit_dynamic_filters import DynamicFilters
+ 
 
 # streamlit hello in your terminal (Streamlit website)
 df=pd.read_csv(r'Results.csv',sep=',',  header=0, names=None, index_col=None, usecols=None, skiprows=None, nrows=None)

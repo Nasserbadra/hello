@@ -1,0 +1,5 @@
+date,Test,Regression,Ridge,Polynomial
+2000,MSE,6.73,5.43,14.07
+2005,R-Squared,9,1.53,2.97
+2010,R-Squared,6,9.53,3.97
+2018,R-Squared,6,53,3.97
